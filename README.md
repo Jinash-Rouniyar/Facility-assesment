@@ -7,6 +7,8 @@ web UI.
 
 Validation target: **CCN `686123`** (Kendall Lakes Healthcare and Rehab Center, FL).
 
+**Live demo:** [https://facility-assesment.vercel.app/](https://facility-assesment.vercel.app/)
+
 ## Quick start
 
 ```bash
@@ -179,9 +181,11 @@ npm test
 
 ## Deployment
 
+**Live URL:** [https://facility-assesment.vercel.app/](https://facility-assesment.vercel.app/)
+
 The app deploys to **Vercel** with zero config (Route Handlers run as serverless functions; exports
-are client-side, so no Chromium is needed). Push the repo to GitHub and import it into Vercel, or run
-`vercel` from this directory.
+are client-side, so no Chromium is needed). Repository:
+[github.com/Jinash-Rouniyar/Facility-assesment](https://github.com/Jinash-Rouniyar/Facility-assesment)
 
 ## Refreshing fixtures
 
